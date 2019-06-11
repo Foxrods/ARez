@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1682811960
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: duck
+      Dependencies: {}
+    Info_1:
+      Name: knight
+      Dependencies: {}
